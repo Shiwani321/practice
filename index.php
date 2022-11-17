@@ -1,5 +1,5 @@
 <?php
 
-echo 'yes it worked';
+echo 'yes it';
 
 ?>
